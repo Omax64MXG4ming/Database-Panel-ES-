@@ -4,6 +4,8 @@ All .php is on Spanish, don't change anything, it will cause malfunction
 # How To Use
 
 **You can locate the Files, in them change the incl/lib/**
+*do that in all of them ⬆️
+In db_only.php leave `../../` and after the / put the directory where the connection to the DB is located*
 
 *panel_pass.php 
 save the password,
