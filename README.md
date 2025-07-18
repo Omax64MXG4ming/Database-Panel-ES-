@@ -23,6 +23,8 @@ black theme
 modify, delete, add, edit, tab structure, SQL console,manage tables
 you can change the language.
 
+100% functional
+
 for now
 
 *will continue to be updated**
