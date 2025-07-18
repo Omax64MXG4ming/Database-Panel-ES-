@@ -26,3 +26,5 @@ you can change the language.
 for now
 
 *will continue to be updated**
+
+![1000152616](https://github.com/user-attachments/assets/92bc1179-3e60-463c-9e3e-a88413890355)
