@@ -3,7 +3,7 @@
 error_reporting(1);
 
 require dirname(__FILE__)."/../../config/connection.php";
-
+//If your database connection file is somewhere else, change it /../../****/***.php
 // Crear conexión simple sin IP checks ni dashboard
 
 try {
